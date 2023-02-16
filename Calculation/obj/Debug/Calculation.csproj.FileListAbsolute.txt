@@ -1,0 +1,15 @@
+D:\Практические мдк 01.04\Calculation\Calculation\bin\Debug\Calculation.exe.config
+D:\Практические мдк 01.04\Calculation\Calculation\bin\Debug\Calculation.exe
+D:\Практические мдк 01.04\Calculation\Calculation\bin\Debug\Calculation.pdb
+D:\Практические мдк 01.04\Calculation\Calculation\obj\Debug\Calculation.csproj.AssemblyReference.cache
+D:\Практические мдк 01.04\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+D:\Практические мдк 01.04\Calculation\Calculation\obj\Debug\Calculation.exe
+D:\Практические мдк 01.04\Calculation\Calculation\obj\Debug\Calculation.pdb
+C:\Users\Helga\Downloads\Calculation\Calculation\bin\Debug\Calculation.exe.config
+C:\Users\Helga\Downloads\Calculation\Calculation\bin\Debug\Calculation.exe
+C:\Users\Helga\Downloads\Calculation\Calculation\bin\Debug\Calculation.pdb
+C:\Users\Helga\Downloads\Calculation\Calculation\obj\Debug\Calculation.csproj.AssemblyReference.cache
+C:\Users\Helga\Downloads\Calculation\Calculation\obj\Debug\Calculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Helga\Downloads\Calculation\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\Helga\Downloads\Calculation\Calculation\obj\Debug\Calculation.exe
+C:\Users\Helga\Downloads\Calculation\Calculation\obj\Debug\Calculation.pdb
